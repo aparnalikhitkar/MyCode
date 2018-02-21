@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+    <head>
+          <script>
+            function add()
+            {
+                var a=document.getElementById("a").value;
+                var b=document.getElementById("b").value;
+                var c;
+                c = parseInt(a)  + parseInt (b);
+                document.getElementById("result").value=c;
+            }
+            function sub()
+            {
+                var a=document.getElementById("a").value;
+                var b=document.getElementById("b").value;
+                var c ;
+                c = parseInt(a) - parseInt(b);
+                document.getElementById("result").value=c;
+            }
+            function mul()
+            {
+                var d=document.getElementById("a").value;
+                var e=document.getElementById("b").value;
+                var c;
+                c = parseInt(d)*parseInt(e); 
+                document.getElementById("result").value=c;
+            }
+            function div()
+            {
+                var i=document.getElementById("a").value;
+                var j=document.getElementById("b").value;
+                var k=99;
+                k = parseInt(i)/parseInt(j);
+               
+                document.getElementById("result").value=k;
+            }
+        </script>
+        <title>My first program</title>
+    </head>
+    <body>
+        Enter first Number:
+        <input type="text" name="A" id="a"  ><br>
+        Enter second Number:
+        <input type="text" name="B" id="b"><br>
+        Result:
+        <input type="text" name="result" id="result"><br>
+        <button onclick="add()">add</button>
+        <button onclick="sub()">sub</button>
+        <button onclick="mul()">mul</button>
+        <button onclick="div()">div</button>
+    </body>
+</html>
