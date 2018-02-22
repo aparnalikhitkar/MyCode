@@ -1,0 +1,26 @@
+<!doctype <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>forLoop</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--<link rel="stylesheet" type="text/css" media="screen" href="main.css" />-->
+    
+</head>
+<body>
+    <h2> initialize many value in for Loop</h2>
+    <p id="ini"></p>
+    <script>
+        var cars = ["Ford","Audi","saad","volvo"];
+        var i ,text,len;
+        for(i =0,text ="",len = cars.length;i<len;i++)
+        {
+            text += cars[i] + "<br>";
+        }
+        document.getElementById("ini").innerHTML = text;
+    </script>
+
+
+</body>
+</html>

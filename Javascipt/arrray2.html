@@ -1,0 +1,26 @@
+<!doctype <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>add new element to array</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+</head>
+<body>
+    <h1>Arrays</h1>
+    <p>The Push Methed appends a new element to an arrays.</p>
+    <button onclick="fun()">Try it </button>
+    <p id="push"></p>
+    <script>
+        var fruits = ["Banana","Orange","Apple","Mango"];
+        document.getElementById("push"),innerHeight = fruits;
+        function fun()
+        {
+            fruits.push("Lemon");
+            document.getElementById("push").innerHTML = fruits;
+            
+        }
+    </script>
+</body>
+</html>

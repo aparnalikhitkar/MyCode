@@ -1,0 +1,51 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+        <title>swich</title>
+    </head>
+<body>
+
+<p id="swich"></p>
+
+<script>
+ function fun()
+{
+    var day = document.getElementById("day1").value;
+    if (parseInt(day)<6 && parseInt(day)>=0)
+    {
+        switch (parseInt(day))
+        {
+            case 0:
+                day = "Sunday";
+            break;
+            case 1:
+                day = "Monday";
+            break;
+            case 2:
+                day = "Tuesday";
+            break;
+            case 3:
+                day = "Wednesday";
+            break;
+            case 4:
+                day = "Thursday";
+            break;
+            case 5:
+                day = "Friday";
+            break;
+            case  6:
+            day = "Saturday";
+         }
+        document.getElementById("swich").innerHTML = "Today is " + day;
+    }
+    else
+    {
+        document.getElementById("swich").innerHTML = "wrong input ";
+    }
+}           
+</script>
+
+<input type="text" name="Day1" id="day1">
+<button onclick="fun()">click for view day name</button>
+</body>
+</html>
