@@ -1,2 +1,13 @@
 
 HTML/.vs/slnx.sqlite
+*.tlog
+*.idb
+*.obj
+*.pdb
+*.log
+C/C Programs/.vs/C Programs/v15/.suo
+*.db
+*.opendb
+*.ilk
+*.exe
+*.ipch

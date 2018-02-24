@@ -1,0 +1,24 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>onmousover</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+   <!-- <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script-->
+</head>
+<body>
+  <div onmouseover="mOver(this)" onmouseout="mOut(this)" style="background-color:#D94A35;width:120px;height:20px;height:20px;padding:40px;" >Hello mouse over Me</div> 
+  <script>
+      function mOver(obj )
+      {
+            obj.innerHTML ="Thank You"
+      }
+      function mOut(obj)
+      {
+          obj.innerHTML = "Mouse Over Me"
+      }
+  </script>   
+</body>
+</html>
