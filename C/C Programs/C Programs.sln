@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C1areaofREcCircle", "C1area
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "temperature", "temperature\temperature.vcxproj", "{3E044E70-4FF5-4854-A839-F4B8573D14BB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C15digits", "C15digits\C15digits.vcxproj", "{8C4B4F92-13BB-481E-A848-D9EC476825F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{3E044E70-4FF5-4854-A839-F4B8573D14BB}.Release|x64.Build.0 = Release|x64
 		{3E044E70-4FF5-4854-A839-F4B8573D14BB}.Release|x86.ActiveCfg = Release|Win32
 		{3E044E70-4FF5-4854-A839-F4B8573D14BB}.Release|x86.Build.0 = Release|Win32
+		{8C4B4F92-13BB-481E-A848-D9EC476825F5}.Debug|x64.ActiveCfg = Debug|x64
+		{8C4B4F92-13BB-481E-A848-D9EC476825F5}.Debug|x64.Build.0 = Debug|x64
+		{8C4B4F92-13BB-481E-A848-D9EC476825F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C4B4F92-13BB-481E-A848-D9EC476825F5}.Debug|x86.Build.0 = Debug|Win32
+		{8C4B4F92-13BB-481E-A848-D9EC476825F5}.Release|x64.ActiveCfg = Release|x64
+		{8C4B4F92-13BB-481E-A848-D9EC476825F5}.Release|x64.Build.0 = Release|x64
+		{8C4B4F92-13BB-481E-A848-D9EC476825F5}.Release|x86.ActiveCfg = Release|Win32
+		{8C4B4F92-13BB-481E-A848-D9EC476825F5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -146,6 +156,7 @@ Global
 		{91B48935-CF5C-4CC2-9B5B-660FBEB3AA98} = {FCCB9104-3053-4420-A8C3-42CAD6E0B9C2}
 		{D1D1684F-F267-468A-AD0D-A1ACD0687087} = {FCCB9104-3053-4420-A8C3-42CAD6E0B9C2}
 		{3E044E70-4FF5-4854-A839-F4B8573D14BB} = {FCCB9104-3053-4420-A8C3-42CAD6E0B9C2}
+		{8C4B4F92-13BB-481E-A848-D9EC476825F5} = {FCCB9104-3053-4420-A8C3-42CAD6E0B9C2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F03C069-928A-41A9-93BF-5012E66D10B4}
