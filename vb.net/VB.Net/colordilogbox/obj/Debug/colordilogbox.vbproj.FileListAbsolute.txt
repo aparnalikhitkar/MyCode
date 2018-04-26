@@ -1,0 +1,12 @@
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\colordilogbox\bin\Debug\colordilogbox.exe.config
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\colordilogbox\bin\Debug\colordilogbox.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\colordilogbox\bin\Debug\colordilogbox.pdb
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\colordilogbox\bin\Debug\colordilogbox.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\colordilogbox\obj\Debug\colordilogbox.vbprojResolveAssemblyReference.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\colordilogbox\obj\Debug\colordilogbox.Form1.resources
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\colordilogbox\obj\Debug\colordilogbox.Resources.resources
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\colordilogbox\obj\Debug\colordilogbox.vbproj.GenerateResource.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\colordilogbox\obj\Debug\colordilogbox.vbproj.CoreCompileInputs.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\colordilogbox\obj\Debug\colordilogbox.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\colordilogbox\obj\Debug\colordilogbox.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\colordilogbox\obj\Debug\colordilogbox.pdb

@@ -1,0 +1,12 @@
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\MyFirstForm\bin\Debug\MyFirstForm.exe.config
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\MyFirstForm\bin\Debug\MyFirstForm.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\MyFirstForm\bin\Debug\MyFirstForm.pdb
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\MyFirstForm\bin\Debug\MyFirstForm.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\MyFirstForm\obj\Debug\MyFirstForm.Resources.resources
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\MyFirstForm\obj\Debug\MyFirstForm.vbproj.GenerateResource.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\MyFirstForm\obj\Debug\MyFirstForm.vbproj.CoreCompileInputs.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\MyFirstForm\obj\Debug\MyFirstForm.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\MyFirstForm\obj\Debug\MyFirstForm.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\MyFirstForm\obj\Debug\MyFirstForm.pdb
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\MyFirstForm\obj\Debug\MyFirstForm.MyForm.resources
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\MyFirstForm\obj\Debug\MyFirstForm.vbprojResolveAssemblyReference.cache

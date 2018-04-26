@@ -1,0 +1,15 @@
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\bin\Debug\Calc.exe.config
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\bin\Debug\Calc.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\bin\Debug\Calc.pdb
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\bin\Debug\Calc.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\obj\Debug\Calc.Resources.resources
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\obj\Debug\Calc.vbproj.GenerateResource.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\obj\Debug\Calc.vbproj.CoreCompileInputs.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\obj\Debug\Calc.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\obj\Debug\Calc.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\obj\Debug\Calc.pdb
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\bin\Debug\MathLib.dll
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\bin\Debug\MathLib.pdb
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\bin\Debug\MathLib.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\obj\Debug\Calc.vbprojResolveAssemblyReference.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Calc\obj\Debug\Calc.vbproj.CopyComplete

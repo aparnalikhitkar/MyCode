@@ -1,0 +1,11 @@
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\string\obj\Debug\string.vbprojResolveAssemblyReference.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\string\obj\Debug\string.Resources.resources
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\string\obj\Debug\string.vbproj.GenerateResource.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\string\obj\Debug\string.vbproj.CoreCompileInputs.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\string\bin\Debug\string.exe.config
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\string\bin\Debug\string.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\string\bin\Debug\string.pdb
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\string\bin\Debug\string.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\string\obj\Debug\string.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\string\obj\Debug\string.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\string\obj\Debug\string.pdb

@@ -1,0 +1,12 @@
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\NotePadMenu\bin\Debug\NotePadMenu.exe.config
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\NotePadMenu\bin\Debug\NotePadMenu.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\NotePadMenu\bin\Debug\NotePadMenu.pdb
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\NotePadMenu\bin\Debug\NotePadMenu.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\NotePadMenu\obj\Debug\NotePadMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\NotePadMenu\obj\Debug\NotePadMenu.Form1.resources
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\NotePadMenu\obj\Debug\NotePadMenu.Resources.resources
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\NotePadMenu\obj\Debug\NotePadMenu.vbproj.GenerateResource.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\NotePadMenu\obj\Debug\NotePadMenu.vbproj.CoreCompileInputs.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\NotePadMenu\obj\Debug\NotePadMenu.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\NotePadMenu\obj\Debug\NotePadMenu.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\NotePadMenu\obj\Debug\NotePadMenu.pdb

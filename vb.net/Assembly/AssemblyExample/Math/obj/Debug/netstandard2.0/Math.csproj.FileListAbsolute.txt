@@ -1,0 +1,9 @@
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Math\bin\Debug\netstandard2.0\Math.deps.json
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Math\bin\Debug\netstandard2.0\Math.dll
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Math\bin\Debug\netstandard2.0\Math.pdb
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Math\obj\Debug\netstandard2.0\Math.csprojResolveAssemblyReference.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Math\obj\Debug\netstandard2.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Math\obj\Debug\netstandard2.0\Math.AssemblyInfoInputs.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Math\obj\Debug\netstandard2.0\Math.AssemblyInfo.cs
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Math\obj\Debug\netstandard2.0\Math.dll
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Math\obj\Debug\netstandard2.0\Math.pdb

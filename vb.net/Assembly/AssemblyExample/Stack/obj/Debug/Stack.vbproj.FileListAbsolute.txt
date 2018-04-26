@@ -1,0 +1,10 @@
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Stack\bin\Debug\Stack.exe.config
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Stack\bin\Debug\Stack.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Stack\bin\Debug\Stack.pdb
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Stack\bin\Debug\Stack.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Stack\obj\Debug\Stack.Resources.resources
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Stack\obj\Debug\Stack.vbproj.GenerateResource.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Stack\obj\Debug\Stack.vbproj.CoreCompileInputs.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Stack\obj\Debug\Stack.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Stack\obj\Debug\Stack.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\Stack\obj\Debug\Stack.pdb

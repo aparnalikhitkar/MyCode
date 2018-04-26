@@ -1,0 +1,12 @@
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\pictureBox\bin\Debug\pictureBox.exe.config
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\pictureBox\bin\Debug\pictureBox.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\pictureBox\bin\Debug\pictureBox.pdb
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\pictureBox\bin\Debug\pictureBox.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\pictureBox\obj\Debug\pictureBox.vbprojResolveAssemblyReference.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\pictureBox\obj\Debug\pictureBox.Form1.resources
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\pictureBox\obj\Debug\pictureBox.Resources.resources
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\pictureBox\obj\Debug\pictureBox.vbproj.GenerateResource.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\pictureBox\obj\Debug\pictureBox.vbproj.CoreCompileInputs.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\pictureBox\obj\Debug\pictureBox.exe
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\pictureBox\obj\Debug\pictureBox.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\VB.Net\pictureBox\obj\Debug\pictureBox.pdb

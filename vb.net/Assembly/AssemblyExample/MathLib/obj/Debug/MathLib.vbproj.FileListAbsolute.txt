@@ -1,0 +1,9 @@
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\MathLib\bin\Debug\MathLib.dll
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\MathLib\bin\Debug\MathLib.pdb
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\MathLib\bin\Debug\MathLib.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\MathLib\obj\Debug\MathLib.Resources.resources
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\MathLib\obj\Debug\MathLib.vbproj.GenerateResource.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\MathLib\obj\Debug\MathLib.vbproj.CoreCompileInputs.cache
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\MathLib\obj\Debug\MathLib.dll
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\MathLib\obj\Debug\MathLib.xml
+C:\Users\Aparna\My Workspace\MyCode\vb.net\Assembly\AssemblyExample\MathLib\obj\Debug\MathLib.pdb
